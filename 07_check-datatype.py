@@ -1,0 +1,10 @@
+a=18
+b="24"
+c=24.18
+d=True
+e=None
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
