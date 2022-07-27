@@ -14,8 +14,8 @@ updateDict={
 myDict.update(updateDict) #Updates new values as well as existing values
 print(myDict)
 
-print(myDict.get("Name")) #Prints Value Associated to key Name
-print(myDict("Name")) #Prints Value Associated to key Name
+# print(myDict.get("Name")) #Prints Value Associated to key Name
+# print(myDict("Name")) #Prints Value Associated to key Name
 
-print(myDict.get("Name100")) #Returns None as Name100 key is not present
-print(myDict("Name100")) #Returns ERROR as Name100 key is not present
+# print(myDict.get("Name100")) #Returns None as Name100 key is not present
+# print(myDict("Name100")) #Returns ERROR as Name100 key is not present
